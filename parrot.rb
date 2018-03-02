@@ -4,5 +4,3 @@ def parrot
   puts "Squawk!"
   "Squawk!"
 end
-
-puts parrot("Pretty bird!")
