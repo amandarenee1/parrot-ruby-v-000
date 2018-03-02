@@ -4,7 +4,4 @@ def parrot
   puts "Squawk!"
 end
 
-def Squawk!
-  phrase = parrot
-  return "Squawk!"
-end
+parrot("Squawk!")
