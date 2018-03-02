@@ -5,5 +5,6 @@ def parrot
 end
 
 def Squawk!
+  phrase = parrot
   return "Squawk!"
 end
